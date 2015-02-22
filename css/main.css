@@ -29,6 +29,10 @@ html, body {
     padding: 80px;
 }
 
+.main img{
+  width: 100%;
+}
+
 .main .series {
     color:#0393ff;
 }
